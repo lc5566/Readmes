@@ -15,7 +15,6 @@ var getBase64 = function(url, option) {
 		var w = that.width,
 			h = that.height,
 			scale = w / h;
-			
 		//480  你想压缩到多大，改这里
 		w = 480 || w;
 		h = w / scale;
