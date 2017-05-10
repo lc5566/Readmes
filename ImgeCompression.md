@@ -20,7 +20,6 @@ var getBase64 = function(url, option) {
 		h = w / scale;
 		//生成canvas
 		var canvas = document.createElement('canvas');
-
 		var ctx = canvas.getContext('2d');
 		canvas.setAttribute("width", w);
 		canvas.setAttribute("height", h);
