@@ -16,3 +16,7 @@ git stash
 ## 恢复最近一次暂存的工作区内容
 
 git stash pop
+
+## 检查改动
+
+git diff [文件名]
