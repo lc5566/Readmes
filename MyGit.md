@@ -9,6 +9,10 @@ git clone https://github.com/jquery/jquery.git
 
 git remote set-url origin http://liuchen:00000@192.168.1.8:10080/web_dev/mr.cur-web.git
 
+## 新增remote
+
+git remote set-url [name] [url]
+
 ## 暂存当前的工作区内容，然后将工作区内容保持和上次提交相同
 
 git stash
