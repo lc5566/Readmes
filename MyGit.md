@@ -9,7 +9,7 @@ git clone https://github.com/jquery/jquery.git
 
 git remote set-url origin http://liuchen:00000@192.168.1.8:10080/web_dev/mr.cur-web.git
 
-## 新增remote
+## remote 设置url
 
 git remote set-url [name] [url]
 
@@ -24,3 +24,7 @@ git stash pop
 ## 检查改动
 
 git diff [文件名]
+
+## 添加remote及url
+
+git remote add [name] [url]
