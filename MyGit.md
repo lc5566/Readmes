@@ -7,7 +7,7 @@ git clone https://github.com/jquery/jquery.git
 
 ## 重设主机url 带用户名密码
 
-git remote set-url origin http://liuchen:00000@192.168.1.8:10080/web_dev/mr.cur-web.git
+git remote set-url origin http://liuchen:00000@192.168.git
 
 ## remote 设置url
 
